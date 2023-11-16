@@ -10,7 +10,7 @@
 [Microsoft](https://learn.microsoft.com/en-gb/users/skiw4o-7079/achievements) Here you can check my achievements within Microsoft.
 
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/konstantin-petkov92/) . You can also shoot me an email at You can also shoot me an email at [konstantin.z.petkov@gmail.com](mailto:your-email).
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/konstantin-petkov92/) . You can also shoot me an email at [konstantin.z.petkov@gmail.com](mailto:your-email).
 
 <!---
 Konstantin9209/Konstantin9209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
