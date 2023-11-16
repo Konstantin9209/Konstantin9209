@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open source projects that focus on educational tools and community-driven content.
 
-📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/konstantin-petkov92/) . You can also shoot me an email at (mailto:konstantin.z.petkov@gmail.com).
+📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/konstantin-petkov92/) . You can also shoot me an email at You can also shoot me an email at [konstantin.z.petkov@gmail.com](mailto:your-email).
 
 <!---
 Konstantin9209/Konstantin9209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
