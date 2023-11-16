@@ -7,6 +7,9 @@
 
 💞️ I'm on the lookout for collaborative opportunities in open source projects that champion educational resources and foster community engagement.
 
+[Microsoft](https://learn.microsoft.com/en-gb/users/skiw4o-7079/achievements) Here you can check my achievements within Microsoft.
+
+
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/konstantin-petkov92/) . You can also shoot me an email at You can also shoot me an email at [konstantin.z.petkov@gmail.com](mailto:your-email).
 
 <!---
