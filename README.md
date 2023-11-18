@@ -3,7 +3,7 @@
 
 👀 With an eye for detail and quality, I immerse myself in the dynamic world of software testing, full-stack development, and the fascinating realm of machine learning.
 
-🌱 Currently, I'm on a journey mastering C# and honing my expertise in JUnit and Selenium WebDriver to engineer robust test cases.
+🌱 Currently, I'm on a journey mastering C# and honing my expertise in NUnit and Selenium WebDriver to engineer robust test cases.
 
 💞️ I'm on the lookout for collaborative opportunities in open source projects that champion educational resources and foster community engagement.
 
